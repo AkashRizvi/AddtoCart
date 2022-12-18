@@ -19,6 +19,7 @@ function FetchData() {
     <div className="App">
       <button onClick={apiFetch}>Click me to fetch data</button>
       <h1>New Heading</h1>
+      <p>sadflk</p>
     </div>
   );
 }
